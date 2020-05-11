@@ -1,0 +1,40 @@
+Rules O' Liar's Dice
+
+The object of Liar's Dice is to bet on the total number of a particular die in the game
+ without getting called a liar only to find you bet too high.
+
+When the game starts, roll your dice
+Once all players have rolled their dice, play begins with the player in seat 1(or the player who lost the previous game)
+Play then proceeds in order of seat number
+
+You can only view your own dice
+
+Your Turn:
+	You may do one of two things on your turn:
+
+	1. Raise stakes
+		-If you think the previous player's bet is likely to be true
+
+	2. Call the previous player a liar
+		-If you think the previous player's bet is unreasonable
+
+Raising Stakes:
+	A stake is the number of dice of a denomination, for instance: Four fours, or Two fives
+
+	Valid Raise:
+
+	1. The number of dice in the stake can never decrease from the current stake
+
+	2. The type of die being bet on CAN decrease, but if it does the number of dice in the stake MUST increase
+
+	3. If you wish to increase the type of die being bet on, the number of dice does not have to increase
+
+Call A Liar:
+	If you do not think the previous player's bet is reasonable, you can call them a liar and find out
+
+	If there aren't as many dice on the table as the previous player bet they lose, if there are then you lose
+
+
+
+
+
